@@ -52,7 +52,7 @@
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/devcrud.git
+   git clone https://github.com/Nautan-Pranami/devcrud.git
    ```
 
 2. **Open `index.html`**:  
